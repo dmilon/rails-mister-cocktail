@@ -3,7 +3,10 @@
   "private": true,
   "dependencies": {
     "@rails/webpacker": "3.5",
-    "mem": "^4.0.0"
+    "acorn": "^5.7.4",
+    "js-yaml": "^3.13.1",
+    "mem": "^4.0.0",
+    "serialize-javascript": "^2.1.1"
   },
   "devDependencies": {
     "webpack-dev-server": "^3.2.1"
